@@ -1,0 +1,1 @@
+a simple implementation of redis with workers and pub sub modal
